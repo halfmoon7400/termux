@@ -1,0 +1,14 @@
+
+
+#termux terminal
+
+apt update && apt upgrade -y
+#input y agina
+
+apt install python -y
+pip install --upgrade pip
+apt install libzmq -y
+pip install jupyter notebook
+
+
+
