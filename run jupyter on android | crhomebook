@@ -1,0 +1,20 @@
+
+
+install termux android app
+install jupyter notebook  follow this https://github.com/halfmoon7622/termux/blob/master/install%20jupyter%20notebook%20on%20termux%20android
+
+1. run jupyter notebook in termux app
+2. copy localhost:8888 with token 
+3. paste to chrome browser address
+  + if chromebook os install Opera or chrome browser beta or dev version 
+  + in chromebook os doesn't work natural chrome browser (in my case : chromebook pro...)
+  + in my case using Opera browser cause of more smooth and more pretty...(dark mode)
+
+
+termux ifconfig보면 bridge방식 네트워크는 아닌것 같은데 
+이상하게 작동이 됨
+크롬북에서 리눅스 베타버전이 얼른 정식으로 전부 적용됐으면 좋겠음
+chromebook pluse는 베타 대상인데
+chromebook pro는 제외....ㅠㅠ
+
+https://user-images.githubusercontent.com/33209460/72973234-44081280-3e10-11ea-9587-07d799e66295.png
